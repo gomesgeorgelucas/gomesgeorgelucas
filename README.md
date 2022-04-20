@@ -10,7 +10,7 @@
 - StartSe Tech Academy - WEB FullStack Jr
 - DIO Philips - Web FullStack (Angular/Spring)
 - RL Associados - 6Sigma Green Belt
-- Kultivi - Francês
+- Kultivi - Francês (ç'est magnifique)
 
 #### Projetos Atuais:
 - [TaskFeed](https://github.com/gomesgeorgelucas/TaskFeed): Gerenciador de tarefas diferente que consome uma lista de tarefas repetitivas cadastradas no Google Calendar e as transforma em um feed de atividades, que podem ser marcadas como completadas ou atrasadas e exibidas em um web app.
@@ -21,7 +21,7 @@
     - Angular
     - MongoDB
     - Heroku
-
+##
 <div align="center"><p><em>See you later, Alligator!<em></p></div>
 <div align="center">
   <a href="https://www.linkedin.com/in/gomesgeorgelucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -62,5 +62,8 @@
   
   
 ##
-![SnakeAction](https://raw.githubusercontent.com/gomesgeorgelucas/gomesgeorgelucas/fb383b8a41f857ead079b86328825189cb885b49/github-contribution-grid-snake.svg)
-  ##
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/gomesgeorgelucas/gomesgeorgelucas/fb383b8a41f857ead079b86328825189cb885b49/github-contribution-grid-snake.svg"/>
+  <div>
+    
+##
