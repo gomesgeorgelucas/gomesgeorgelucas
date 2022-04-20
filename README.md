@@ -1,8 +1,28 @@
 ### Hi, I'm George Lucas Gomes and I'm trying not to break the Internet!
-
+##
 <p> Estudante de engenharia de computação (um dia eu termino meu TCC), entusiasta de eletrônica computacional, colecionador de computadores retrô e guitarrista super amador! </p>
 
-**See you later, Alligator!**
+#### Estudando:
+- Let's Code Santander Coders - WEB FullStack (Angular/Spring)
+- Alura Oracle Next Education - WEB FullStack (React/Node)
+- Cisco Networking Academy - CCNA 1 / Network Security / Python
+- Gama Academy VTEX Hiring Coders - WEB FullStack Jr
+- StartSe Tech Academy - WEB FullStack Jr
+- DIO Philips - Web FullStack (Angular/Spring)
+- RL Associados - 6Sigma Green Belt
+- Kultivi - Francês
+
+#### Projetos Atuais:
+- [TaskFeed](https://github.com/gomesgeorgelucas/TaskFeed): Gerenciador de tarefas diferente que consome uma lista de tarefas repetitivas cadastradas no Google Calendar e as transforma em um feed de atividades, que podem ser marcadas como completadas ou atrasadas e exibidas em um web app.
+  - Contributors:
+    - [Kareen Castro](https://github.com/kareenketleen) | FrontEnd
+  - Tech:
+    - Spring Boot
+    - Angular
+    - MongoDB
+    - Heroku
+
+<div align="center"><p><em>See you later, Alligator!<em></p></div>
 <div align="center">
   <a href="https://www.linkedin.com/in/gomesgeorgelucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:gomes.georgelucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
