@@ -3,12 +3,7 @@
 <p> Estudante de engenharia de computação (um dia eu termino meu TCC), entusiasta de eletrônica computacional, colecionador de computadores retrô e guitarrista super amador! </p>
 
 #### Estudando:
-- Let's Code Santander Coders - WEB FullStack (Angular/Spring)
-- Alura Oracle Next Education - WEB FullStack (React/Node)
-- Cisco Networking Academy - CCNA 1 / Network Security / Python
-- Gama Academy VTEX Hiring Coders - WEB FullStack Jr
-- StartSe Tech Academy - WEB FullStack Jr
-- DIO Philips - Web FullStack (Angular/Spring)
+- Ada Code@CS
 - RL Associados - 6Sigma Green Belt
 - Kultivi - Francês (ç'est magnifique)
 
